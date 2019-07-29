@@ -15,17 +15,18 @@ section {
 }
 
 .first-color {
-  background-color: hsla(0, 100%, 50%, 1);
+  background-color: hsla(7, 100%, 50%, 1);
 }
 .second-color {
-  background-color: hsla(0, 100%, 50%, 1);
+  background-color: hsla(11, 100%, 50%, 1);
 }
 .third-color {
-  background-color: hsla(0, 100%, 50%, 1);
+  background-color: hsla(25, 100%, 50%, 1);
 }
 .fourth-color {
-  background-color: hsla(0, 100%, 50%, 1);
+  background-color: hsla(40, 100%, 50%, 1);
 }
 .fifth-color {
-  background-color: hsla(0, 100%, 50%, 1);
+  background-color: hsla(60, 100%, 50%, 1);
 }
+
